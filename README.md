@@ -24,3 +24,8 @@ For each machine, different accuracy metrics like Precision, Recall and F1 score
 Phase-4 (User Independent Analysis):
 In this phase, we considered data from 10 users as Training and remainig 27 users as testing. Then trained with same machines as in phase-3
 and reported the same accuracy metrics. 
+
+Prediction Accuracies:-
+Decision Trees:- 80%-90%
+SVM:- 65%-85%
+Neural Networks:- 80%-95%
